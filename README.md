@@ -6,7 +6,7 @@
   - [list of images](#list-of-images)
   - [License](#license)
 
-This repository contains the images of the database of Nannenga-Bremekamp's Myxomycetes formerly hosted on the Meise Botanic Garden domain. 
+This repository contains the images of the database of Nannenga-Bremekamp's Myxomycetes formerly hosted on the Meise Botanic Garden domain. A list of images is included in this readme file, you can search trough this list via the keyboard shortcut: `Ctrl+F`
 
 
 ## list of images
